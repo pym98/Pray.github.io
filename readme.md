@@ -1,28 +1,45 @@
 # 안내
-## 온라인기도실 활용 교회 (2020.12.20 현재)
+## 새로운 페이지를 개설하였습니다. https://wessch2.cafe24.com
+새로운 페이지에 자세한 내용 및 관련 사역자료들을 공개하고 있습니다. 위의 링크를 이용하시기 바랍니다.
+
+## 온라인기도실 활용 교회 
+### 2020년 활용교회
 아래 목록은 교회 상황에 따라 변경될 수 있습니다. 아래 목록을 참고하시면, 기도실 구성에 도움이 될 겁니다.
-- 산성교회   http://ministry.ssch.net/prayer/room/
-- 면목교회   http://mmchurch.kr/xe/praise02  https://mmchurch1.github.io/
-  (포크 후 자체 내용으로 구성)
-- 주안장로교회 https://lnh-dev.github.io/juanonlineprayerroom/index.html
-  (포크 후 자체 내용으로 구성)
-- 일산예일교회 http://yeil153.org/index.php  
-  (기본 기도실 이용)
+- 산성교회   http://ministry.ssch.net/prayer/room/ 
+- 면목교회   http://mmchurch.kr/ https://mmchurch1.github.io/  
+- 주안장로교회 https://lnh-dev.github.io/juanonlineprayerroom/index.html   (119기도, 2022.2 현재 운영중)
+- 일산예일교회 http://yeil153.org/index.php    (기본 기도실 이용)
 - 플라워마운드교회 (미국) http://www.fmkchurch.com/bbs/board.php?bo_table=0203&wr_id=336  **카카오채널로 발송**
-  (http://wessch.cafe24.com/maker/ 에서 슬라이드 수정) 
   https://kdkim99.github.io   (포크 후 자체 내용으로 구성)
 - 동일교회 https://dongilch.github.io/201122/
   (포크 후 자체 내용으로 구성)
 - 세상의 빛 염산교회 https://woosung3.github.io/
   (포크 후 자체 내용으로 구성)
- 
-- 필라한인교회  (교회 채널 https://pf.kakao.com/_alAsC )
+ - 필라한인교회  (교회 채널 https://pf.kakao.com/_alAsC )
   (http://wessch.cafe24.com/maker/ 에서 슬라이드 수정 후 카톡으로 발송) 
 
 
-### 참고
-- 필그림 하우스 온라인 기도실
-- https://pilgrimonline.blogspot.com/
+### 2021년 활용교회  
+- 군포교회 https://gunpoch.github.io/ 
+- 행신임마누엘교회  http://www.immanuelch.co.kr/    https://hangsinimmanuel.github.io/hangsinimmanuel/20210721.html  
+- 목민교회 http://www.mokmin.or.kr/
+- 시온성교회 http://zionc.kr/
+- 문화교회  http://www.moonhwa.org/
+- 울산강남교회 http://www.gangnamch.org/
+- 가장제일교회 http://www.gj1st.org/     https://gj1st.github.io  (금요기도회로 활용)
+- 신양교회 https://morningcomechurch.github.io/morningcomechurch/1/   
+- 경신교회 http://www.gyungshin.or.kr/
+- 부산성민교회 http://sungminch.com/  (성도 교육용 영상 온라인기도실 묵상 안내) https://www.youtube.com/watch?v=d5NhNs1VPCQ
+
+### 2022년 활용교회
+- 남광교회 http://namgwang.org/ http://ministry.ssch.net/us/room2021.html?room=1842
+- 묘동교회http://www.myodong-church.or.kr/main/main.html 빌립보서 50독 http://ministry.ssch.net/us/room2021.html?room=1785
+- 광명교회 http://kmchurch.kr/main/sub.html?pageCode=83
+- 범천교회(고신)
+- The Bridge Church / Christian Reformed Church (미국)  http://thebridgecrc.org/
+
+### 기타
+- 필그림 하우스 온라인 기도실  https://pilgrimonline.blogspot.com/
 
 
 ###  게시 일정
@@ -35,94 +52,71 @@
 - 13주차 영화롭게 하옵소서 (요17:1-5) 
 - 14주차 내게 주신 사람들 (요17:6-8)
 - 15주차 그들로 하나가 되게 (요17:9-14)
-- 17주차 진리로 거룩하게 (요17:15-19)
-- 18주차 세상이 알게 하옵소서 (요17:20-26)
+- 16주차 진리로 거룩하게 (요17:15-19)
+- 17주차 세상이 알게 하옵소서 (요17:20-26)
 
-- 본 온라인 기도실은 올해 12월까지 업데이트 됩니다. 정비후 다시 새로운 주제로 게시할 예정입니다. (2021년 사순절 정도로 계획하고 있습니다.)
+#### 3차 2021년 사순절 묵상
+- 예수님의 생애 묵상을 40일간 이어갑니다.
+-  http://ministry.ssch.net/40days/
+
+#### 4차 2022년 사순절 묵상
+- 십자가에 버려야할 20가지, 가져야할 20가지를 살펴봅니다.
+- http://ministry.ssch.net/40days/2022.html
+- 3차와 4차는 이곳에 올라와 있지 않습니다. 그러나 요청시 보내드립니다.
 
 
 ## 이용방법
 
-### 1. 메인 홈페이지에서 수정하기 (슬라이드 1장 수정)
+- 아래 방법이 어려우시면, 아래 전화번호로 02-536-5891 (교회전화) 하시면 안내해 드립니다.
+- 3가지 방식으로 활용할 수 있습니다.
+- (1) 있는 그대로 활용 / 교회 이름 정도만 넣어 활용 (2) 한 장 정도 수정해서 사용 (3) 전체편집 (우리교회 컨텐츠와 기도로 채울 경우)
+ 
 
-- 주소: http://wessch.cafe24.com/maker/
-위의 주소로 가시면, 가장 최신화된 온라인기도실을 사용하실 수 있습니다. 각 교회별 이름을 넣거나, 성도들의 기도제목을 받을 수 있도록 도와드립니다. 온라인기도실의 내용은 별도의 공고없이 지속적으로 수정됩니다.  슬라이드 1장을 임의로 수정할 수 있는 방법을 안내해 드립니다. 링크를 이용하시면, 각 교회 담당자께서 성도들이 보낸 한 줄 기도문을 수합하여 정리할 수 있습니다.
-
-- 주소: http://wessch.cafe24.com/maker/
-
-### 2. 현재 사이트에서 수정하기 (교회 이름과 기도제목 한 줄 추가)
-#### a. 교회 이름 넣기
+### (1) 있는 그대로 활용
 
 주소 뒷부분에 교회이름을 적으시면, 타이틀이 해당 교회 이름으로 뜹니다.
 - https://pgsixt.github.io/?church=산성교회
 - https://pgsixt.github.io/?church=교회이름
-
-#### b. 개교회 기도제목 넣기
-
-크롬 등 브라우저 주소창에 &prayer=기도제목을 추가하시면 개별 교회 기도제목을 사용할 수 있습니다.
-지금은 기도제목을 한 개만 넣을 수 있고, 길어지면 기도제목이 잘릴 수 있습니다. 그러니 확인하시고 배포하셔야 합니다.
+- https://pgsixt.github.io/1/?church=교회이름   (1번 기도실)
+- https://pgsixt.github.io/2/?church=교회이름   (2번 기도실)
 
 
-- 형식 https://pgsixt.github.io/?church=교회이름&prayer=기도제목
+### (2) 한 장 정도 수정하기: 기존 내용을 활용하며 한 장만 편집
 
-예) 교회 이름 : 한인교회, 기도제목: 영주권을 놓고 어려움을 겪는 이들을 위해 기도합시다
+- http://wessch.cafe24.com/maker/  주소로 가시면, 가장 최신화된 온라인기도실을 사용하실 수 있습니다. 각 교회별 이름을 넣거나,  슬라이드 1장을 임의로 수정할 수 있는 방법을 안내해 드립니다. 링크를 이용하시면, 각 교회 담당자께서 성도들이 보낸 한 줄 기도문을 수합하여 정리할 수 있습니다.
+- 위의 주소에서 작업을 하시면, 성도들의 피드백 (한줄 기도문)을 받아보실 수도 있습니다.
 
-기도제목의 빈칸은 _ 밑줄로 처리하셔야 합니다.
-
-기도제목: 영주권을_놓고_어려움을_겪는_이들을_위해_기도합시다
-
--주소 https://pgsixt.github.io/?church=한인교회&prayer=미국영주권을_놓고_어려움을_겪는_이들을_위해_기도합시다
-
-위 주소를 공유하시면 됩니다. 
-
-
-#### c. 내용 확인하기
-현재 9주 이후로 적용이 되는 기능입니다. 주소 뒤에 &all=1를 붙이시면 전체 내용을 한 눈에 보실 수 있습니다.
-
-예
--주소 https://pgsixt.github.io/?church=한인교회&prayer=미국영주권을_놓고_어려움을_겪는_이들을_위해_기도합시다&all=1
--주소 https://pgsixt.github.io/9/?church=한인교회&all=1
--주소 https://pgsixt.github.io/all=1
-
-### 3. 전체 수정하기 (모든 페이지 수정가능)
-github 가입후 이 프로젝트를 fork 하셔서 index.html 파일을 수정하시면 됩니다. 
-- github 가입후,  https://github.com/pgsixt/pgsixt.github.io 우상단의 [fork] 하기 클릭
-- 이후 settings 에서 자신이 가입한 아이디로 프로젝트 이름을 고치면 (rename)  새로운 홈페이지 주소가 생깁니다. 
-- https://자기아이디.github.io  
-- index.html 파일을 여시면 기도 제목을 수정하실 수 있습니다.
-- 퍼가셔서 자유롭게 사용하셔도 좋은데, 상업적으로 사용하지 마시기 바랍니다.
-- 퍼가시면서 제작자와 산성교회를 위해 기도부탁드립니다. 
-- 배포 전에 반드시 내용을 확인하시기 바랍니다. 혹시 개교회에 맞지 않는 기도제목이 있을 수도 있습니다. 
-
-- 입력방법 안내 (아래 링크의 PDF를 참조하시기 바랍니다.)
-https://pgsixt.github.io/201201online_prayer_doc.pdf
-
-
+ 
+### (3) 전체 수정하기 (모든 페이지 수정가능, 신규 제작 가능)
+- 기도실을 직접 제작하고, 쉽게 편집할 수 있는 툴을 알려드립니다.
+- 여러개의 유튜브와 음악을 활용할 수 있고, 내용을 자유롭게 바꿀 수 있습니다.
+- 편집기 신청 링크 https://forms.gle/FoyfNKkp4zYgbDGv8
+- 위의 링크로 신청하시면, 저희가 개발한 편집기를 이용해 자유롭게 작성할 수 있도록 안내해 드립니다. 
+- (교육을 받으실 경우, 크롬 브라우저 설치하시고 https://remotedesktop.google.com/support/  접속후 화면 공유를 할 수 있도록 준비하시기 바랍니다)
 
 ## 개요
 
 ### 1. 온라인 기도실은
 
-여기 있는 자료는 각자 자리에서 기도할 수 있도록 돕기 위해 산성교회(서울 http://www.ssch.net 담임: 김응신 목사 ) 미디어부에 제작하였습니다.
-이전의 기도실 내용을 이용하려면 아래 각 주차에 기록된 주소를 이용하시기 바랍니다.
+기도제목과 음악, 영상을 엮어 성도들에게 보낼 수 있는 기도플랫폼입니다. 교회 소모임, 또는 기도모임에서 활용도 가능합니다. 여기 있는 자료는 각자 자리에서 기도할 수 있도록 돕기 위해 산성교회(서울 http://www.ssch.net 담임: 김응신 목사 ) 미디어부에 제작하였습니다. 이전의 기도실 내용을 이용하려면 아래 각 주차에 기록된 주소를 이용하시기 바랍니다.
 
 ### 2. 관련 사이트 소개
 청어람아카데미에서 진행하는 온라인 예배를 참고하여 제작하였습니다. 
 https://worship.ichungeoram.com/
 
-사진 자료는 주로 언스플래쉬 ( https://unsplash.com/  )를 이용하였습니다.
+사진 자료는 주로 언스플래쉬  https://unsplash.com/   를 이용하였습니다.
 
 ### 3. 자료 출처 (공통)
 - 말씀: 김응신 목사님 주일 설교 시리즈 http://www.ssch.net/index.php?mid=board_kTTq23&category=25897
 - 음악: 마스터 믹싱 박경선 전도사 https://www.youtube.com/user/SunnyPark7045/channels
+ 
+ 
+ 
+### 참고 (온라인 기도실 묵상 방법)
+- 아래 영상은 부산성민교회에서 올린 온라인기도실 사용안내입니다. 이해하시는데 도움이 될 것 같아 올려놓습니다.
+https://www.youtube.com/watch?v=d5NhNs1VPCQ
 
  
-### 4. 기타 사항
-
-예배 자료는  한 주에 한 번씩 업데이트할 예정입니다. (매주 토요일 업데이트 예정)
-산성교회 온라인 기도실을 바탕으로 제작이 됩니다. 다음주 자료를 보기 원하시는 분은 산성교회 온라인 기도실 http://ministry.ssch.net/prayer/room/  에서 확인하실 수 있습니다.
-문의사항은  posix2 골뱅이 daum.net 으로 보내주시면 처리해 드립니다. 
-
  
 
 ## 주별 내용
